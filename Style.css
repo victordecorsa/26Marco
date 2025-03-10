@@ -1,0 +1,34 @@
+body{
+    background-color: rgb(132, 13, 13);
+}
+
+.Titulo{
+    padding: 25%;
+    margin-left: 15px;
+    margin-right: 15px;
+    border: solid 1px black;
+    background-image: url(Img/Para\ meu.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    
+}
+
+#buque{
+    width: 130px;
+    position: absolute;
+    left: 69%;
+    top: 19%;
+}
+
+.bloco2{
+    margin-top: 10vh;
+    padding: 25%;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-image: url(Img/bloco2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    
+}
