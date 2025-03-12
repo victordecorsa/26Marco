@@ -5,7 +5,7 @@ body{
 .Titulo{
     padding: 25%;
     margin-left: 15px;
-    margin-right: 15px;
+    margin-right: 13px;
     border: solid 1px black;
     background-image: url(Img/Para\ meu.png);
     background-repeat: no-repeat;
@@ -25,10 +25,23 @@ body{
     margin-top: 10vh;
     padding: 25%;
     margin-left: 15px;
-    margin-right: 15px;
+    margin-right: 13px;
     background-image: url(Img/bloco2.png);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 10px;
     
+}
+.bloco3{
+    padding: 20%;
+    margin-left: 15px;
+    margin-right: 13px;
+    background-image: url(Img/pq.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+
+}
+.text1{
+    text-align: center;
 }
