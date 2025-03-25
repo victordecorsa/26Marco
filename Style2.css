@@ -53,11 +53,6 @@ p{
     text-align: center;
 }
 
-.linha{
-   
-
-}
-
 .text{
     margin-top: 8%;
     border-top: solid 1px black;
@@ -130,7 +125,7 @@ button {
     right: 0;
     opacity: 1;
   }
-  
+
   button:active {
     transform: scale(0.9);
   }
